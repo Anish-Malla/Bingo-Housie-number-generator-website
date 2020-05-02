@@ -1,0 +1,38 @@
+.doneNumber{
+	color: white;
+	background-color: rgb(0, 0, 139);
+}
+
+td{
+	color: pink;
+	padding: 10px;
+	border: 2px solid pink;
+	text-align: center;
+}
+
+table{
+	float: left;
+    position:relative;
+    border:0;
+	font-size: 1.5rem;
+	margin-left: 5%;
+}
+
+button{
+	margin-left: 5%;
+}
+
+h4{
+	text-indent:5%; 
+	padding-top: 1%;
+}
+
+#bingoNumber{
+	font-size: 15rem;
+	text-indent: 5%;
+}
+
+#title{
+	text-indent: 14%;
+	padding-bottom: 1%;
+}
